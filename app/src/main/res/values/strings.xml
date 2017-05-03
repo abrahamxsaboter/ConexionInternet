@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practica ConexionInternet</string>
+    <string name="instrucciones">Ejemplo que demuesra el uso de las APIs de GOOGLE BOOKs</string>
+    <string name="btn_txt">Buscar Libro</string>
+    <string name="hint_txt">Escriba el nombre de algun libro</string>
+</resources>
